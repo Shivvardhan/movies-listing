@@ -31,21 +31,21 @@ git clone https://github.com/Shivvardhan/movies-listing.git
 cd movies-listing
 npm install
 npm run dev
+```
 
 Visit http://localhost:5173
 
-
 🔍 Folder Structure
 src/
-├── components/        // UI elements (cards, loaders)
-├── MovieCard.jsx      // Card Component
-├── Redux/             // Redux slices
-├── store.js           // Redux store config
-├── moviesSlice.js     // Movies Reducer
-├── src/               // Page-level containers
-├── App.jsx            // Root structure
-├── index.css          // Tailwind import
-└── main.jsx           // Vite app entry
+├── components/ // UI elements (cards, loaders)
+├── MovieCard.jsx // Card Component
+├── Redux/ // Redux slices
+├── store.js // Redux store config
+├── moviesSlice.js // Movies Reducer
+├── src/ // Page-level containers
+├── App.jsx // Root structure
+├── index.css // Tailwind import
+└── main.jsx // Vite app entry
 
 🎯 Future Enhancements
 These aren’t “nice to haves.” These are growth steps:
@@ -56,9 +56,15 @@ These aren’t “nice to haves.” These are growth steps:
 💬 Integrate user review system with mock backend
 🔒 Add auth system for favoriting shows
 
-📷 Screenshots
+## 📷 Screenshots
 
+### 🎬 Homepage View
 
+![Homepage](./screenshots/screenshot1.jpg)
+
+### 🔄 Pagination in Action
+
+![Card Hover](./screenshots/screenshot2.jpg)
 
 🧠 About the Developer
 I’m Shiv Vardhan Singh Sikarwar, a CSE student who builds with purpose and intensity.
@@ -71,4 +77,3 @@ If something can be done better, faster, or smarter, I want to figure it out and
 
 🧱 License
 MIT — because innovation scales when it’s open.
-```
