@@ -36,6 +36,7 @@ npm run dev
 Visit http://localhost:5173
 
 🔍 Folder Structure
+```bash
 src/
 ├── components/ // UI elements (cards, loaders)
 ├── MovieCard.jsx // Card Component
@@ -46,15 +47,16 @@ src/
 ├── App.jsx // Root structure
 ├── index.css // Tailwind import
 └── main.jsx // Vite app entry
+```
 
 🎯 Future Enhancements
 These aren’t “nice to haves.” These are growth steps:
 
-🔍 Add search with debounce
-📄 Create detail pages with nested routing
-🌓 Add Dark Mode toggle via context
-💬 Integrate user review system with mock backend
-🔒 Add auth system for favoriting shows
+- 🔍 Add search with debounce
+- 📄 Create detail pages with nested routing 
+- 🌓 Add Dark Mode toggle via context 
+- 💬 Integrate user review system with mock backend 
+- 🔒 Add auth system for favoriting shows 
 
 ## 📷 Screenshots
 
